@@ -11,6 +11,8 @@ Author: Kabir Ansari
 Student ID: w1960394
 
 Tutorial Leader(s): Dr Panagiotis Chountas 
+
+Institution: University of Westminster
 ##
 
 Hello everyone! This is my first coursework for my final year module Customer Relationship and Change Management (CRM & CM) with Business Intelligence!
